@@ -3,8 +3,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Rangnarok();
-        //IDIACamp();
+        IDIACamp();
     }
 
     static void IDIACamp()
@@ -100,9 +99,5 @@ class Program
                 L += bill;
             }
         }
-    }
-
-    static void Rangnarok() {
-        
     }
 }
